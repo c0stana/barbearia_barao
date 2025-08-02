@@ -29,5 +29,12 @@ h1 {
 }
 
 img {
-    height: 185px;
+    height: 500px;
+    widht: 400px
+}
+
+.categoria-videos {
+     display: flex;
+     overflow-x: auto;
+     gap: 10px;
 }
